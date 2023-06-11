@@ -1,0 +1,732 @@
+Ingredients,Potential Allergies,Potential Diseases,Halal/Haram
+Asparagus,No,No,Halal
+Bell Pepper,No,No,Halal
+Broccoli,No,No,Halal
+Carrot,No,No,Halal
+Cauliflower,No,No,Halal
+Celery,No,No,Halal
+Cucumber,No,No,Halal
+Green (Snap) Beans,No,No,Halal
+Green Cabbage,No,Gout,Halal
+Green Onion,No,No,Halal
+Iceberg Lettuce,No,No,Halal
+Leaf Lettuce,No,No,Halal
+Mushrooms,No,Gout,Halal
+Onion,No,No,Halal
+Potato,No,No,Halal
+Radishes,No,No,Halal
+Summer Squash,No,No,Halal
+Sweet Corn,No,No,Halal
+Sweet Potato,No,No,Halal
+Tomato,No,No,Halal
+Apple,No,No,Halal
+Avocado,No,Diabetes,Halal
+Banana,No,No,Halal
+Cantaloupe,No,No,Halal
+Grapefruit,No,No,Halal
+Grapes,No,No,Halal
+Honeydew Melon,No,No,Halal
+Kiwifruit,No,No,Halal
+Lemon,No,No,Halal
+Lime,No,No,Halal
+Nectarine,No,No,Halal
+Orange,No,No,Halal
+Peach,No,No,Halal
+Pear,No,No,Halal
+Pineapple,No,No,Halal
+Plum,No,No,Halal
+Strawberries,No,No,Halal
+Sweet Cherries,No,No,Halal
+Tangerine,No,No,Halal
+Watermelon,No,No,Halal
+Blue Crab,Seafood Allergy,Cholesterol,Halal
+Catfish,Seafood Allergy,Hypertension,Halal
+Clams,Seafood Allergy,"Cholesterol, Gout",Halal
+Cod,Seafood Allergy,No,Halal
+Flounder/Sole,Seafood Allergy,No,Halal
+Haddock,Seafood Allergy,No,Halal
+Halibut,Seafood Allergy,No,Halal
+Lobster,Seafood Allergy,Cholesterol,Halal
+Ocean Perch,Seafood Allergy,No,Halal
+Orange Roughy,Seafood Allergy,No,Halal
+Pollock,Seafood Allergy,No,Halal
+Rainbow Trout,Seafood Allergy,No,Halal
+Rockfish,Seafood Allergy,No,Halal
+Scallops,Seafood Allergy,"Cholesterol, Gout",Halal
+Shrimp,Seafood Allergy,"Cholesterol, Gout",Halal
+Swordfish,Seafood Allergy,No,Halal
+Tilapia,Seafood Allergy,No,Halal
+Amaranth Seed Black,No,No,Halal
+Amaranth Seed Pale Brown,No,No,Halal
+Bajra,No,No,Halal
+Barley,No,No,Halal
+Jowar,No,No,Halal
+Maize Dry,No,No,Halal
+Maize Tender Local,No,No,Halal
+Maize Tender Sweet,No,No,Halal
+Quinoa,No,No,Halal
+Ragi,No,No,Halal
+Rice Flakes,No,Diabetes,Halal
+Rice Puffed,No,Diabetes,Halal
+Rice Raw Brown,No,No,Halal
+Rice Parboiled Milled,No,Diabetes,Halal
+Rice Raw Milled,No,Diabetes,Halal
+Samai,No,No,Halal
+Varagu,No,No,Halal
+Wheat Flour Refined,Gluten Allergy,No,Halal
+Wheat Flour Atta,Gluten Allergy,No,Halal
+Wheat Whole,Gluten Allergy,No,Halal
+Wheat Bulgur,Gluten Allergy,No,Halal
+Wheat Semolina,Gluten Allergy,No,Halal
+Wheat Vermicelli,Gluten Allergy,No,Halal
+Wheat Vermicelli Roasted,Gluten Allergy,No,Halal
+Bengal Gram Dal,Legume Allergy,No,Halal
+Bengal Gram Whole,Legume Allergy,No,Halal
+Black Gram Dal,Legume Allergy,No,Halal
+Black Gram Whole,Legume Allergy,No,Halal
+Cowpea Brown,Legume Allergy,No,Halal
+Cowpea White,Legume Allergy,No,Halal
+Field Bean Black,Legume Allergy,Gout,Halal
+Field Bean Brown,Legume Allergy,Gout,Halal
+Field Bean White,Legume Allergy,Gout,Halal
+Green Gram Dal,Legume Allergy,No,Halal
+Green Gram Whole,Legume Allergy,No,Halal
+Horse Gram Whole,Legume Allergy,No,Halal
+Lentil Dal,Legume Allergy,No,Halal
+Lentil Whole Brown,Legume Allergy,No,Halal
+Lentil Whole Yellowish,Legume Allergy,No,Halal
+Moth Bean,Legume Allergy,Gout,Halal
+Peas Dry,Legume Allergy,No,Halal
+Rajmah Black,Legume Allergy,No,Halal
+Rajmah Brown,Legume Allergy,No,Halal
+Rajmah Red,Legume Allergy,No,Halal
+Red Gram Dal,Legume Allergy,No,Halal
+Red Gram Whole,Legume Allergy,No,Halal
+Ricebean,Legume Allergy,No,Halal
+Soya Bean Brown,No,Gout,Halal
+Soya Bean White,No,Gout,Halal
+Agathi Leaves,No,No,Halal
+Amaranth Leaves Green,No,No,Halal
+Amaranth Leaves Red,No,No,Halal
+Amaranth Leaves Red And Green Mix,No,No,Halal
+Amaranth SpiNous Leaves Green,No,No,Halal
+Amaranth SpiNous Leaves Red And Green Mix,No,No,Halal
+Basella Leaves,No,No,Halal
+Bathua Leaves,No,No,Halal
+Beet Greens,No,No,Halal
+Betel Leaves Big,No,No,Halal
+Betel Leaves Small,No,No,Halal
+Brussels Sprouts,No,No,Halal
+Cabbage Chinese,No,Gout,Halal
+Cabbage Collard Greens,No,Gout,Halal
+Cabbage Green,No,Gout,Halal
+Cabbage Violet,No,Gout,Halal
+Cauliflower Leaves,No,No,Halal
+Colocasia Leaves Green,No,No,Halal
+Drumstick Leaves,No,No,Halal
+Fenugreek Leaves,No,No,Halal
+Garden Cress,No,No,Halal
+Gogu Leaves Green,No,No,Halal
+Gogu Leaves Red,No,No,Halal
+Knol-Khol Leaves,No,No,Halal
+Lettuce,No,No,Halal
+Mustard Leaves,No,No,Halal
+Pak Choi Leaves,No,No,Halal
+Parsley,No,No,Halal
+Ponnaganni,No,No,Halal
+Pumpkin Leaves Tender,No,No,Halal
+Radish Leaves,No,No,Halal
+Rumex Leaves,No,No,Halal
+Spinach,No,No,Halal
+Tamarind Leaves Tender,No,No,Halal
+Ash Gourd,No,No,Halal
+Bamboo Shoot Tender,No,No,Halal
+Bean Scarlet Tender,Legume Allergy,No,Halal
+Bitter Gourd Jagged Teeth Ridges Elongate,No,No,Halal
+Bitter Gourd Jagged Teeth Ridges Short,No,No,Halal
+Bitter Gourd Jagged Smooth Ridges Elongate,No,No,Halal
+Bottle Gourd Elongate Pale Green,No,No,Halal
+Bottle Gourd Round Pale Green,No,No,Halal
+Bottle Gourd Elongate Dark Green,No,No,Halal
+Brinjal - All Varieties,No,No,Halal
+Broad Beans,Legume Allergy,No,Halal
+Capsicum Green,No,No,Halal
+Capsicum Red,No,No,Halal
+Capsicum Yellow,No,No,Halal
+Cauliflower,No,No,Halal
+Celery Stalk,No,No,Halal
+Cho-Cho-Marrow,No,No,Halal
+Cluster Beans,Legume Allergy,No,Halal
+Colocasia Stem Black,No,No,Halal
+Colocasia Stem Green,No,No,Halal
+Corn Baby,No,No,Halal
+Cucumber Green Elongate,No,No,Halal
+Cucumber Green Short,No,No,Halal
+Cucumber Orange Round,No,No,Halal
+Drumstick,No,No,Halal
+Field Beans Tender Broad,Legume Allergy,No,Halal
+Field Beans Tender Lean,Legume Allergy,No,Halal
+French Beans Country,No,No,Halal
+French Beans Hybrid,No,No,Halal
+Jack Fruit Raw,No,No,Halal
+Jack Fruit Seed Mature,No,No,Halal
+Knol - Khol,No,No,Halal
+Ladies Finger,No,No,Halal
+Mango Green Raw,No,No,Halal
+Onion Stalk,No,No,Halal
+Papaya Raw,No,No,Halal
+Parwar,No,No,Halal
+Peas Fresh,No,No,Halal
+Plantain Flower,No,No,Halal
+Plantain Green,No,No,Halal
+Plantain Stem,No,No,Halal
+Pumpkin Green Cylindrical,No,No,Halal
+Pumpkin Orange Round,No,No,Halal
+Red Gram Tender Fresh,Legume Allergy,No,Halal
+Ridge Gourd,No,No,Halal
+Ridge Gourd Smooth Skin,No,No,Halal
+Snake Gourd Long Pale Green,No,No,Halal
+Snake Gourd Long Dark Green,No,No,Halal
+Snake Gourd Short,No,No,Halal
+Tinda Tender,No,No,Haram
+Tomato Green,No,No,Halal
+Tomato Ripe Hybrid,No,No,Halal
+Tomato Ripe Local,No,No,Halal
+Zucchini Green,No,No,Halal
+Zucchini Yellow,No,No,Halal
+Apple Big,No,No,Halal
+Apple Green,No,No,Halal
+Apple Small,No,No,Halal
+Apple Small Kashmir,No,No,Halal
+Apricot Dried,No,No,Halal
+Bael Fruit,No,No,Halal
+Banana Ripe Montham,No,No,Halal
+Banana Ripe Poovam,No,No,Halal
+Banana Ripe Red,No,No,Halal
+Banana Ripe Robusta,No,No,Halal
+Black Berry,No,No,Halal
+Cherries Red,No,No,Halal
+Currants Black,No,No,Halal
+Custard Apple,No,No,Halal
+Dates Dry Pale Brown,No,No,Halal
+Dates Dry Dark Brown,No,No,Halal
+Dates Processed,No,No,Halal
+Fig,No,No,Halal
+Goosberry,No,No,Halal
+Grapes Seeded Round Black,No,No,Halal
+Grapes Seeded Round Green,No,No,Halal
+Grapes Seeded Round Red,No,No,Halal
+Grapes Seedless Oval Black,No,No,Halal
+Grapes Seedless Round Green,No,No,Halal
+Grapes Seedless Round Black,No,No,Halal
+Guava White Flesh,No,No,Halal
+Guava Pink Flesh,No,No,Halal
+Jambu Fruit Ripe,No,No,Halal
+Karonda Fruit,No,No,Halal
+Lemon Juice,No,No,Halal
+Lime Sweet Pulp,No,No,Halal
+Litchi,No,No,Halal
+Mango Ripe Banganapalli,No,No,Halal
+Mango Ripe Gulabkhas,No,No,Halal
+Mango Ripe Himsagar,No,No,Halal
+Mango Ripe Kesar,No,No,Halal
+Mango Ripe Neelam,No,No,Halal
+Mango Ripe Paheri,No,No,Halal
+Mango Ripe Totapari,No,No,Halal
+Mangosteen,No,No,Halal
+Manila Tamarind,No,No,Halal
+Musk Melon Orange Flesh,No,No,Halal
+Musk Melon Yellow Flesh,No,No,Halal
+Orange Pulp,No,No,Halal
+Palm Fruit Tender,No,No,Halal
+Papaya Ripe,No,No,Halal
+Peach,No,No,Halal
+Pear,No,Diabetes,Halal
+Phalsa,No,No,Halal
+Pineapple,No,No,Halal
+Pomegranate Maroon Seeds,No,Hypertension,Halal
+Pummelo,No,No,Halal
+Raisins Dried Black,No,Diabetes,Halal
+Raisins Dried Golden,No,Diabetes,Halal
+Rambutan,No,No,Halal
+Sapota,No,No,Halal
+Soursop,No,No,Halal
+Star Fruit,No,No,Halal
+Strawberry,No,No,Halal
+Tamarind Pulp,No,No,Halal
+Water Melon Dark Green,No,No,Halal
+Water Melon Pale Green,No,No,Halal
+Wood Apple,No,No,Halal
+Zizyphus,No,No,Halal
+Beet Root,No,No,Halal
+Carrot Orange,No,No,Halal
+Carrot Red,No,No,Halal
+Colocasia,No,No,Halal
+Lotus Root,No,No,Halal
+Potato Brown Skin Big,No,No,Halal
+Potato Brown Skin Small,No,No,Halal
+Potato Red Skin,No,No,Halal
+Radish Elongate Red Skin,No,No,Halal
+Radish Elongate White Skin,No,No,Halal
+Radish Round Red Skin,No,No,Halal
+Radish Round White Skin,No,No,Halal
+Sweet Potato Brown Skin,No,No,Halal
+Sweet Potato Pink Skin,No,No,Halal
+Tapioca,No,No,Halal
+Water Chestnut,No,Gout,Halal
+Yam Elephant,No,No,Halal
+Yam Ordinary,No,No,Halal
+Yam Wild,No,No,Halal
+Chillies Green,No,No,Halal
+Coriander Leaves,No,No,Halal
+Curry Leaves,No,No,Halal
+Garlic Big Clove,No,No,Halal
+Garlic Small Clove,No,No,Halal
+Garlic Single Clove Kashmir,No,No,Halal
+Ginger Fresh,No,No,Halal
+Mango Ginger,No,No,Halal
+Mint Leaves,No,No,Halal
+Onion Big,No,No,Halal
+Onion Small,No,No,Halal
+Asafoetida,No,No,Halal
+Cardamom Green,No,No,Halal
+Cardamom Black,No,No,Halal
+Chillies Red,No,No,Halal
+Cloves,No,No,Halal
+Coriander Seeds,No,Gout,Halal
+Cumin Seeds,No,Gout,Halal
+Fenugreek Seeds,No,No,Halal
+Mace,No,No,Halal
+Nutmeg,No,Gout,Halal
+Omum,No,No,Halal
+Pippali,No,No,Halal
+Pepper Black,No,No,Halal
+Poppy Seeds,No,No,Halal
+Turmeric Powder,No,No,Halal
+Almond,No,Gout,Halal
+Arecanut Dried Brown,No,No,Halal
+Arecanut Dried Red Color,No,No,Halal
+Arecanut Fresh,No,No,Halal
+Cashew Nut,No,Gout,Halal
+Coconut Kernal Dry,No,No,Halal
+Coconut Kernel Fresh,No,No,Halal
+Garden Cress Seeds,No,Gout,Halal
+Gingelly Seeds Black,No,Gout,Halal
+Gingelly Seeds Brown,No,Gout,Halal
+Gingelly Seeds White,No,Gout,Halal
+Ground Nut,No,Gout,Halal
+Mustard Seeds,No,Gout,Halal
+Linseeds,No,Gout,Halal
+Niger Seeds Black,No,Gout,Halal
+Niger Seeds Gray,No,Gout,Halal
+Pine Seed,No,Gout,Halal
+Pistachio Nuts,No,Gout,Halal
+Safflower Seeds,No,Gout,Halal
+Sunflower Seeds,No,Gout,Halal
+Walnut,No,Gout,Halal
+Jaggery Cane,No,No,Halal
+Sugarcane Juice,No,Diabetes,Halal
+Button Mushroom Fresh,No,Gout,Halal
+Chicken Mushroom Fresh,No,Gout,Halal
+Shiitake Mushroom Fresh,No,Gout,Halal
+Oyster Mushroom Dried,Seafood Allergy,Gout,Halal
+Toddy,No,No,Haram
+Coconut Water,No,No,Halal
+Milk Whole Buffalo,Milk Allergy and Lactose Intolerance,No,Halal
+Milk Whole Cow,Milk Allergy and Lactose Intolerance,No,Halal
+Panner,Milk Allergy and Lactose Intolerance,No,Halal
+Khoa,Milk Allergy and Lactose Intolerance,No,Halal
+Egg Poultry Whole Raw,No,"Cholesterol, Gout",Halal
+Egg Poultry White Raw,No,"Cholesterol, Gout",Halal
+Egg Poultry Yolk Raw,No,"Cholesterol, Gout",Halal
+Egg Poultry Whole Boiled,No,"Cholesterol, Gout",Halal
+Egg Poultry White Boiled,No,"Cholesterol, Gout",Halal
+Egg Poultry Yolk Boiled,No,"Cholesterol, Gout",Halal
+Egg Poultry Omlet,No,"Cholesterol, Gout",Halal
+Egg Country Hen Whole Raw,No,"Cholesterol, Gout",Halal
+Egg Country Hen Whole Boiled,No,"Cholesterol, Gout",Halal
+Egg Country Hen Omlet,No,"Cholesterol, Gout",Halal
+Egg Duck Whole Boiled,No,"Cholesterol, Gout",Halal
+Egg Duck Whole Raw,No,"Cholesterol, Gout",Halal
+Egg Duck Whole Omlet,No,"Cholesterol, Gout",Halal
+Egg Quial Whole Raw,No,"Cholesterol, Gout",Halal
+Egg Quial Whole Boiled,No,"Cholesterol, Gout",Halal
+Chicken Poultry Leg Skinless,Poultry Allergy,Gout,Halal
+Chicken Poultry Thigh Skinless,Poultry Allergy,Gout,Halal
+Chicken Poultry Breast Skinless,Poultry Allergy,Gout,Halal
+Chicken Poultry Wing Skinless,Poultry Allergy,Gout,Halal
+Poultry Chicken Liver,Poultry Allergy,Gout,Halal
+Poultry Chicken Gizzard,Poultry Allergy,Gout,Halal
+Country Hen Leg With Skin,Poultry Allergy,No,Halal
+Country Hen Thigh With Skin,Poultry Allergy,No,Halal
+Country Hen Breast With Skin,Poultry Allergy,No,Halal
+Country Hen Wing With Skin,Poultry Allergy,No,Halal
+Duck Meat With Skin,Poultry Allergy,No,Halal
+Emu Meat Skinless,Poultry Allergy,No,Halal
+Guinea Fowl Meat With Skin,Poultry Allergy,No,Halal
+Pigeon Meat With Skin,Poultry Allergy,No,Halal
+Quail Meat Skinless,Poultry Allergy,No,Halal
+Turkey Leg With Skin,Poultry Allergy,No,Halal
+Turkey Thigh With Skin,Poultry Allergy,No,Halal
+Turkey Breast With Skin,Poultry Allergy,No,Halal
+Turkey Wing With Skin,Poultry Allergy,No,Halal
+Goat Shoulder,Animal Protein Allergy,Hypertension,Halal
+Goat Chops,Animal Protein Allergy,Hypertension,Halal
+Goat Legs,Animal Protein Allergy,Hypertension,Halal
+Goat Brain,Animal Protein Allergy,Hypertension,Halal
+Goat Tongue,Animal Protein Allergy,Hypertension,Halal
+Goat Lungs,Animal Protein Allergy,Hypertension,Halal
+Goat Heart,Animal Protein Allergy,Hypertension,Halal
+Goat Liver,Animal Protein Allergy,Hypertension,Halal
+Goat Tripe,Animal Protein Allergy,Hypertension,Halal
+Goat Spleen,Animal Protein Allergy,Hypertension,Halal
+Goat Kidneys,Animal Protein Allergy,Hypertension,Halal
+Goat Tube,Animal Protein Allergy,Hypertension,Halal
+Goat Testis,Animal Protein Allergy,Hypertension,Halal
+Sheep Shoulder,Animal Protein Allergy,No,Halal
+Sheep Chops,Animal Protein Allergy,No,Halal
+Sheep Leg,Animal Protein Allergy,No,Halal
+Sheep Brain,Animal Protein Allergy,No,Halal
+Sheep Tongue,Animal Protein Allergy,No,Halal
+Sheep Lungs,Animal Protein Allergy,No,Halal
+Sheep Heart,Animal Protein Allergy,No,Halal
+Sheep Liver,Animal Protein Allergy,No,Halal
+Sheep Tripe,Animal Protein Allergy,No,Halal
+Sheep Spleen,Animal Protein Allergy,No,Halal
+Sheep Kidneys,Animal Protein Allergy,No,Halal
+Beef Shoulder,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Chops,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Round,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Brain,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Tongue,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Lungs,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Heart,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Liver,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Tripe,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Spleen,Animal Protein Allergy,"Hypertension, Gout",Halal
+Beef Kidneys,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Shoulder,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Chops,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Round,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Brain,Animal Protein Allergy,No,Halal
+Calf Tongue,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Heart,Animal Protein Allergy,No,Halal
+Calf Liver,Animal Protein Allergy,No,Halal
+Calf Spleen,Animal Protein Allergy,"Hypertension, Gout",Halal
+Calf Kidneys,Animal Protein Allergy,"Hypertension, Gout",Halal
+Mithun Shoulder,No,No,Halal
+Mithun Chops,No,No,Halal
+Mithun Round,No,No,Halal
+Pork Shoulder,No,Hypertension,Haram
+Pork Chops,No,Hypertension,Haram
+Pork Ham,No,Hypertension,Haram
+Pork Lungs,No,Hypertension,Haram
+Pork Heart,No,Hypertension,Haram
+Pork Liver,No,Hypertension,Haram
+Pork Stomach,No,Hypertension,Haram
+Pork Spleen,No,Hypertension,Haram
+Pork Kidneys,No,Hypertension,Haram
+Pork Tube,No,Hypertension,Haram
+Hare Shoulder,No,No,Halal
+Hare Chops,No,No,Halal
+Hare Leg,No,No,Halal
+Rabbit Shoulder,No,No,Halal
+Rabbit Chops,No,No,Halal
+Rabbit Leg,No,No,Halal
+Anchovy,No,No,Halal
+Ari Fish,No,No,Halal
+Betki,No,No,Halal
+Black Snapper,No,No,Halal
+Bombay Duck,No,No,Halal
+Chembali,No,No,Halal
+Eri Meen,No,No,Halal
+Guitar Fish,No,No,Halal
+Hilsa,No,No,Halal
+Jathi Vela Meen,No,No,Halal
+Kadal Bral,No,No,Halal
+Kadali,No,No,Halal
+Kalamaara,No,No,Halal
+Kannadi Paarai,No,No,Halal
+Karimeen,No,No,Halal
+Kite Fish,No,No,Halal
+Korka,No,No,Halal
+Kulam Paarai,No,No,Halal
+Noaa,No,No,Halal
+Mackerel,No,Gout,Halal
+Milk Fish,No,No,Halal
+Moon Fish,No,No,Halal
+Mullet,No,No,Halal
+Mural,No,No,Halal
+Myil Meen,No,No,Halal
+Parrot Fish,No,No,Halal
+Piranha,No,No,Halal
+Pomfret Black,No,No,Halal
+Pomfret Snub Noe,No,No,Halal
+Pomfret White,No,No,Halal
+Queen Fish,No,No,Halal
+Ray Fish,No,No,Halal
+Ray Fish Bow Head Spotted,No,No,Halal
+Red Snapper,No,No,Halal
+Salmon,Seafood Allergy,No,Halal
+Paarai Fish,No,No,Halal
+Sardine,Seafood Allergy,"Cholesterol, Gout",Halal
+Shark,No,Gout,Halal
+Shark Hammer Head,No,Gout,Halal
+Shark Spotted,No,Gout,Halal
+Sheela Fish,No,Gout,Halal
+Silk Fish,No,No,Halal
+Silver Carp,No,Gout,Halal
+Sole Fish,No,No,Halal
+Stingray,No,No,Halal
+Tilapia,No,No,Halal
+Tuna,Seafood Allergy,Gout,Halal
+Tuna Striped,Seafood Allergy,Gout,Halal
+Vanjaram,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Vela Meen,Seafood Allergy,No,Halal
+Whale Shark,No,No,Halal
+Crab,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Crab Sea,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Lobster Brown,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Lobster King Size,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Mud Crab,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Oyster,Seafood Allergy,"Hypertension, Gout",Halal
+Tiger Prawns Brown,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Tiger Prawns Orange,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Clam Green Shell,Seafood Allergy,"Hypertension, Gout",Halal
+Clam White Shell Ribbed,Seafood Allergy,"Hypertension, Gout",Halal
+Octopus,Seafood Allergy,No,Halal
+Squid Black,Seafood Allergy,"Hypertension, Gout",Halal
+Squid Hard Shell,Seafood Allergy,"Hypertension, Gout",Halal
+Squid Red,Seafood Allergy,"Hypertension, Gout",Halal
+Squid White Small,Seafood Allergy,"Hypertension, Gout",Halal
+Catla Fish,Seafood Allergy,Gout,Halal
+Freshwater Eel,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Gold Fish,No,No,Halal
+Pangasius,Seafood Allergy,No,Halal
+Rohu,No,No,Halal
+Prawns,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Tiger Prawns,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Buttermilk,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Fortified Milk,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Milk Powder,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Goats' Milk,Milk Allergy and Lactose Intolerance,Cholesterol,Halal
+Cocoa,No,Hypertension,Halal
+Skim Milk,Milk Allergy and Lactose Intolerance,No,Halal
+Cornstarch,No,Diabetes,Halal
+Ice Cream,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Cheese,Milk Allergy and Lactose Intolerance,"Cholesterol, Hypertension, Gout",Halal
+Cheddar,Milk Allergy and Lactose Intolerance,"Cholesterol, Hypertension, Gout",Halal
+Cream Cheese,Milk Allergy and Lactose Intolerance,"Cholesterol, Hypertension, Gout",Halal
+Processed Cheese,Milk Allergy and Lactose Intolerance,"Cholesterol, Hypertension, Gout",Halal
+Butter,Milk Allergy and Lactose Intolerance,Cholesterol,Halal
+Lard,No,"Cholesterol, Hypertension, Gout",Haram
+Margarine,No,Cholesterol,Halal
+Mayonnaise,No,Cholesterol,Halal
+Corn Oil,No,No,Halal
+Olive Oil,No,No,Halal
+Safflower Seed Oil,No,Diabetes,Halal
+French Dressing,No,Cholesterol,Halal
+Thousand Island Sauce,No,Cholesterol,Halal
+Salt Pork,No,"Cholesterol, Hypertension, Gout",Haram
+Bacon,No,"Cholesterol, Hypertension, Gout",Haram
+Hamburger,Gluten Allergy,"Cholesterol, Hypertension, Gout",Halal
+Ground Lean,Animal Protein Allergy,"Cholesterol, Gout",Halal
+Steak,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Halal
+"Steak, Lean, As Round",Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Halal
+Corned Beef,Animal Protein Allergy,"Hypertension, Gout",Halal
+Pot-Pie,Gluten Allergy,"Cholesterol, Hypertension, Gout",Halal
+Roasted Chicken,Poultry Allergy,"Cholesterol, Gout",Halal
+Fried Chicken Livers,Poultry Allergy,"Cholesterol, Gout",Halal
+Broiled Lamb Chop,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Halal
+Ham Pan-Broiled,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Haram
+Pork Roast,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Haram
+Pork Sausage,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Haram
+Veal,Animal Protein Allergy,"Cholesterol, Hypertension, Gout",Halal
+Herring,No,No,Halal
+Oyster Stew,Seafood Allergy,"Cholesterol, Hypertension, Gout",Halal
+Shad,No,Gout,Halal
+Artichoke,No,No,Halal
+Red Kidney,Legume Allergy,Gout,Halal
+Bean Sprouts,No,No,Halal
+Sauerkraut,No,No,Halal
+Steamed Cabbage,No,Gout,Halal
+Stalk Raw,No,No,Halal
+Chard Steamed,No,No,Halal
+Collards,No,No,Halal
+Corn,No,No,Halal
+Cucumbers,No,No,Halal
+Dandelion Greens,No,No,Halal
+Eggplant,No,No,Halal
+Endive,No,No,Halal
+Kale,No,Cholesterol,Halal
+Kohlrabi,No,No,Halal
+Lentils,Legume Allergy,No,Halal
+Mushrooms Canned,No,Gout,Halal
+Mustard Greens,No,No,Halal
+Okra,No,No,Halal
+Parsnips,No,No,Halal
+Frozen Peas,Legume Allergy,No,Halal
+Baked Potatoes,No,Diabetes,Halal
+Mashed Potatoes,No,Cholesterol,Halal
+Scalloped With Cheese Potatoes,Milk Allergy and Lactose Intolerance,"Cholesterol, Gout",Halal
+Steamed Potatoes,No,No,Halal
+Potato Chips,No,No,Halal
+Rutabagas,No,No,Halal
+Soybeans,No,Gout,Halal
+Ketchup,No,Hypertension,Halal
+Turnip Greens,No,No,Halal
+Watercress ,No,No,Halal
+Apple Juice Canned,No,No,Halal
+Apple Vinegar,No,No,Halal
+Apricots,No,No,Halal
+Blueberries,No,No,Halal
+Fruit Cocktail Canned,No,Diabetes,Halal
+Lemonade,No,No,Halal
+Olives ,No,No,Halal
+Orange Juice,No,No,Halal
+Persimmons,No,No,Halal
+Pineapple Juice,No,No,Halal
+Prunes,No,No,Halal
+Prune Juice,No,No,Halal
+Raspberries,No,No,Halal
+Biscuits,Gluten Allergy,Diabetes,Halal
+Bread,Gluten Allergy,Diabetes,Halal
+Rye,Gluten Allergy,No,Halal
+Spicy Peppers,No,No,Halal
+Salt,No,Hypertension,Halal
+Sugar,No,Diabetes,Halal
+Caviar,Seafood Allergy,Cholesterol,Halal
+Sago Flour,Gluten Allergy,No,Halal
+Oyster Sauce,Seafood Allergy,"Hypertension, Gout",Halal
+Fish Sauce,No,Hypertension,Halal
+Chicken Breast,Poultry Allergy,Gout,Halal
+Ice Water,No,No,Halal
+Cornflakes,No,No,Halal
+Corn Grits,No,No,Halal
+Corn Meal,No,No,Halal
+Crackers,Gluten Allergy,No,Halal
+Soda,No,Diabetes,Halal
+Farina,No,Diabetes,Halal
+Flour,Gluten Allergy,No,Halal
+All Purpose Wheat,Gluten Allergy,No,Halal
+Macaroni,Gluten Allergy,No,Halal
+Muffins,Gluten Allergy,Diabetes,Halal
+Noodles,Gluten Allergy,No,Halal
+Oatmeal,Gluten Allergy,No,Halal
+Pancakes ,Gluten Allergy,Diabetes,Halal
+Pizza ,Gluten Allergy,No,Halal
+Popcorn Salted,No,Diabetes,Halal
+Rice,No,Diabetes,Halal
+Rice Flakes,No,No,Halal
+Spaghetti With Meat Sauce,Gluten Allergy,No,Halal
+Spanish Rice,No,No,Halal
+Waffles,Gluten Allergy,Diabetes,Halal
+Wheat Germ,Gluten Allergy,No,Halal
+Wheat-Germ Cereal Toasted,Gluten Allergy,No,Halal
+Wheat Meal Cereal Unrefined,Gluten Allergy,No,Halal
+Bean Soups,Legume Allergy,Gout,Halal
+Beef Soup,Animal Protein Allergy,"Hypertension, Gout",Halal
+Bouillon,No,No,Halal
+Chicken Soup,Poultry Allergy,"Cholesterol, Gout",Halal
+Clam Chowder,Seafood Allergy,"Cholesterol, Gout",Halal
+Cream Soups,Milk Allergy and Lactose Intolerance,No,Halal
+Tomato Soup,No,No,Halal
+Bread Pudding,Gluten Allergy,Diabetes,Halal
+Cakes,Gluten Allergy,Diabetes,Halal
+Chocolate Fudge,Gluten Allergy,Diabetes,Halal
+Cupcake,Gluten Allergy,Diabetes,Halal
+Fruit Cake,Gluten Allergy,Diabetes,Halal
+Gingerbread,No,No,Halal
+Sponge Cake,Gluten Allergy,Diabetes,Halal
+Candy,Gluten Allergy,Diabetes,Halal
+Chocolate Creams,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Marshmallows,No,Diabetes,Halal
+Milk Chocolate,Milk Allergy and Lactose Intolerance,Diabetes,Halal
+Chocolate Syrup,No,Diabetes,Halal
+Doughnuts,Gluten Allergy,Diabetes,Halal
+Gelatin,No,Diabetes,Halal
+Honey,No,No,Halal
+Jellies,No,Diabetes,Halal
+Molasses,No,Diabetes,Halal
+Cane Syrup,No,No,Halal
+Cherry Pie,Gluten Allergy,No,Halal
+Custard,Milk Allergy and Lactose Intolerance,No,Halal
+Pumpkin Pie,Gluten Allergy,No,Halal
+Puddings Sugar,No,Diabetes,Halal
+Brown Sugar,No,Diabetes,Halal
+Syrup,No,Diabetes,Halal
+Tapioca Cream Pudding,No,No,Halal
+Almonds,No,No,Halal
+Brazil Nuts,No,No,Halal
+Coconut Sweetened,No,Diabetes,Halal
+Peanut Butter,No,Gout,Halal
+Peanuts,No,Gout,Halal
+Pecans,No,No,Halal
+Sesame Seeds,No,No,Halal
+Beer,No,Diabetes,Haram
+Wines,No,Diabetes,Haram
+Carbonated Drinks Artificially Sweetened,No,Diabetes,Halal
+Club Soda,No,Diabetes,Halal
+Cola Drinks,No,Diabetes,Halal
+Fruit-Flavored Soda,No,Diabetes,Halal
+Ginger Ale,No,No,Halal
+Root Beer,No,Diabetes,Halal
+Coffee,No,Hypertension,Halal
+Tea,No,Hypertension,Halal
+Sweet Popcorn,No,Diabetes,Halal
+Pork Frankfurter Hot Dog,Gluten Allergy,Hypertension,Haram
+Bread Roll Hot Dog,Gluten Allergy,No,Halal
+Hombre Salsa,No,No,Halal
+Cheese Sauce,Milk Allergy and Lactose Intolerance,Hypertension,Halal
+Jalapeno Peppers,No,No,Halal
+Vegetable Oil,No,No,Halal
+Cocoa Powder,No,No,Halal
+Full Cream Milk,Milk Allergy and Lactose Intolerance,No,Halal
+Banana Powder,No,No,Halal
+Emulsifier,No,No,Halal
+Banana Flavor,No,No,Halal
+Sucrose,No,Diabetes,Halal
+Natural Flavor,No,No,Halal
+Aspartame,No,No,Halal
+Tartrazine,No,No,Halal
+Milk Proteins,Milk Allergy and Lactose Intolerance,No,Halal
+Flavor,No,No,Halal
+Flavor Enhancer,No,No,Halal
+MoNoodium,No,No,Halal
+Glutamate,No,No,Halal
+Sodium Polyphosphate,No,No,Halal
+Citric,No,No,Halal
+Disphosphate,No,No,Halal
+Phosphate,No,No,Halal
+Cheese Powder,Milk Allergy and Lactose Intolerance,Cholesterol,Halal
+Mineral,No,No,Halal
+"MoNoodium Glutamate, Msg",No,Hypertension,Halal
+Antioxidants,No,No,Halal
+Chicken Flavor,Poultry Allergy,No,Halal
+Onion Powder,No,No,Halal
+Pepper Powder,No,No,Halal
+Garlic Powder,No,No,Halal
+Folic Acid,No,No,Halal
+Chili Powder,No,No,Halal
+Vegetable Oil,No,No,Halal
+Sodium Benzoate,No,No,Halal
+Food Coloring,No,No,Halal
+Tea Leaves,No,No,Halal
+Potassium Sorbate,No,No,Halal
+Palm Sugar,No,No,Halal
+Ginger,No,No,Halal
+Pandan Leaves,No,No,Halal
+Natural Colorant Caramel,No,Diabetes,Halal
+Tapioca Starch,No,No,Halal
+Palm Oil,No,Cholesterol,Halal
+Caramel,No,Diabetes,Halal
+Oil,No,Cholesterol,Halal
+Raising agent,No,No,Halal
+Synthetic Flavour,No,No,Halal
+Soy,No,Gout,Halal
+Wheat,Gluten Allergy,No,Halal
+Maltodextrin,No,No,Halal
+Shortening,No,No,Halal
+Whey Powder,Milk Allergy and Lactose Intolerance,No,Halal
+Nata de coco,No,No,Halal
+Fructose,No,Diabetes,Halal
