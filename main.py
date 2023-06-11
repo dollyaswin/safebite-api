@@ -21,13 +21,13 @@ from flask import Flask, request, jsonify
 
 app = Flask(__name__)
 
-# Memuat model yang telah disimpan sebelumnya
+# Loads a previously saved model
 model = load_model('model.h5')
 
 # Load data
 data = pd.read_csv('Gabungan1.csv')
 
-# Pisahkan fitur (Ingredients) dan label (Potensial Allergies, Potensial Diseases, Halal/Haram)
+# Separate features (Ingredients) and labels (Potential Allergies, Potential Diseases, Halal/Haram)
 X = data['Ingredients']
 y_allergies = data['Potential Allergies']
 y_diseases = data['Potential Diseases']
@@ -42,7 +42,7 @@ vocab_size = len(tokenizer.word_index) + 1
 embedding_dim = 100
 max_length = X_padded.shape[1]
 
-# Inisialisasi LabelEncoder
+# Initializing LabelEncoder
 label_encoder_allergies = LabelEncoder()
 y_encoded_allergies = label_encoder_allergies.fit_transform(y_allergies)
 
@@ -52,7 +52,7 @@ y_encoded_diseases = label_encoder_diseases.fit_transform(y_diseases)
 label_encoder_halal = LabelEncoder()
 y_encoded_halal = label_encoder_halal.fit_transform(y_halal)
 
-# Membuat DataFrame baru untuk hasil preprocessing
+# Create a new DataFrame for preprocessing results
 preprocessed_data = pd.DataFrame({
     'Features': X,
     'Labels_Allergies': y_encoded_allergies,
@@ -60,53 +60,52 @@ preprocessed_data = pd.DataFrame({
     'Labels_Halal': y_encoded_halal
 })
 
-@app.route('/process_input', methods=["GET", "POST"])
+@app.route('/process_input', methods=['POST'])
 def process_input():
-# Memeriksa otorisasi token user
+# Check user token authorization
     #auth_token = request.headers.get('Authorization')
     #if auth_token != 'YOUR_AUTH_TOKEN':
     #    return 'Unauthorized', 401
 
-# Mengambil input dari body request dalam format JSON
+# Takes input from the body of the request in JSON format
     data = request.get_json()
     user_text = data.get('text')
 
-# Lakukan proses machine learning pada user_text
 #Process the Input
-    # Memisahkan input teks berdasarkan koma
+    # Separates text input by commas
     input_texts = user_text.split(",")
 
-    # Menginisialisasi variabel untuk hasil prediksi
+    # Initialize variables for predictive results
     allergies_output = []
     diseases_output = []
     halal_output = []
 
-    # Lakukan prediksi untuk user_text
+    # Make predictions for user_text
     for text in input_texts:
-      # Preprocessing teks
+      # Preprocessing text
       input_sequence = tokenizer.texts_to_sequences([text.strip()])
       input_padded = pad_sequences(input_sequence, maxlen=max_length)
 
-      # Lakukan prediksi menggunakan model
+      # Make predictions using models
       y_pred_allergies, y_pred_diseases, y_pred_halal = model.predict(input_padded)
 
-      # Mengembalikan label prediksi menjadi bentuk aslinya
+      # Returns the predicted label to its original form
       label_prediksi_allergies = label_encoder_allergies.inverse_transform(np.argmax(y_pred_allergies, axis=1))
       label_prediksi_diseases = label_encoder_diseases.inverse_transform(np.argmax(y_pred_diseases, axis=1))
       label_prediksi_halal = label_encoder_halal.inverse_transform(np.argmax(y_pred_halal, axis=1))
 
-      # Menggabungkan output dari beberapa teks
+      # Combines the output of multiple texts
       allergies_output.extend(label_prediksi_allergies)
       diseases_output.extend(label_prediksi_diseases)
       halal_output.extend(label_prediksi_halal)
 
 
-    # Gabungkan hasil prediksi dari beberapa teks
+    # Combine prediction results from multiple texts
     combined_allergies_output = ' '.join(allergies_output) if allergies_output else ""
     combined_diseases_output = ' '.join(diseases_output) if diseases_output else ""
     combined_halal_output = ' '.join(halal_output) if halal_output else ""
 
-    # Memeriksa hasil prediksi untuk membuat response
+    # Examine the prediction results to create a response
     if combined_allergies_output and "No" in allergies_output and len(allergies_output) > 1:
         non_no_allergies_output = [output for output in allergies_output if output != "No"]
         if non_no_allergies_output:
@@ -127,19 +126,19 @@ def process_input():
       final_diseases_output = "Sorry we can't detect it"
 
 
-    if final_allergies_output == "Allergy Prediction: Sorry we can't detect it" and final_diseases_output == "Disease Prediction: Sorry we can't detect it":
-      final_halal_output = "Halal/Haram Prediction: Sorry we can't detect it"
+    if final_allergies_output == "Sorry we can't detect it" and final_diseases_output == "Sorry we can't detect it":
+      final_halal_output = "Sorry we can't detect it"
     else:
       if combined_halal_output:
         if "Haram" in halal_output:
-            final_halal_output = "Halal/Haram Prediction: Haram"
+            final_halal_output = "Haram"
         else:
-            final_halal_output = "Halal/Haram Prediction: Halal"
+            final_halal_output = "Halal"
       else:
-        final_halal_output = "Halal/Haram Prediction: Sorry we can't detect it"
+        final_halal_output = "Sorry we can't detect it"
 
 
-# Membuat response
+# Create responses
     response = {
         'status': 'success',
         'result': {
