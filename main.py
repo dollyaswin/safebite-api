@@ -22,10 +22,10 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # Loads a previously saved model
-model = load_model('model.h5')
+model = load_model('safebite.h5')
 
 # Load data
-data = pd.read_csv('Gabungan1.csv')
+data = pd.read_csv('safebite.csv')
 
 # Separate features (Ingredients) and labels (Potential Allergies, Potential Diseases, Halal/Haram)
 X = data['Ingredients']
